@@ -422,7 +422,7 @@
     "@cucumber/messages": "^22.0.0",
     "@ethersproject/contracts": "^5.7.0",
     "@ethersproject/providers": "^5.7.2",
-    "@lavamoat/allow-scripts": "^3.0.4",
+    "@lavamoat/allow-scripts": "^3.3.3",
     "@lavamoat/git-safe-dependencies": "^0.2.1",
     "@metamask/browser-passworder": "^5.0.0",
     "@metamask/build-utils": "^1.0.0",
