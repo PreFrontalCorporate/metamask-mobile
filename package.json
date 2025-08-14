@@ -171,7 +171,7 @@
     "@metamask/chain-agnostic-permission": "^0.3.0",
     "@metamask/composable-controller": "^11.0.0",
     "@metamask/controller-utils": "^11.7.0",
-    "@metamask/design-tokens": "^7.0.0",
+    "@metamask/design-tokens": "^8.1.1",
     "@metamask/earn-controller": "^0.13.0",
     "@metamask/eip1193-permission-middleware": "^0.1.0",
     "@metamask/eth-hd-keyring": "^12.1.0",
