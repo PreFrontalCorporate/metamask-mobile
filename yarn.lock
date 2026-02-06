@@ -4765,10 +4765,10 @@
     "@metamask/utils" "^11.2.0"
     immer "^9.0.6"
 
-"@metamask/bitcoin-wallet-snap@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@metamask/bitcoin-wallet-snap/-/bitcoin-wallet-snap-0.9.0.tgz#47014c75c1e1ed84fef57177901f458fd2b6510a"
-  integrity sha512-983twhfOfSCQljT+eV8JLcV0bqGVMObXnEy8TOFAkwwRW2I1ZsVRAfylbGiSwxlhxLntcpLqVu0Sj29xNyA06Q==
+"@metamask/bitcoin-wallet-snap@^1.10.0":
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/@metamask/bitcoin-wallet-snap/-/bitcoin-wallet-snap-1.10.0.tgz#15dbbf77cfaa16937dc1790381193db0b951a856"
+  integrity sha512-8/rJRFsOOd+CXQt63Z/8xNaxvBgzAmvmtSuCfCxuwBk9WAfcIpN/WuNHLnchl2ND0JA6KFQgROZYf4sLWo1sUg==
 
 "@metamask/bridge-controller@^21.0.0":
   version "21.0.0"
