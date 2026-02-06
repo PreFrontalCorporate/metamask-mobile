@@ -366,7 +366,7 @@
     "react-native-pager-view": "^6.7.0",
     "react-native-permissions": "^3.7.2",
     "react-native-progress": "3.5.0",
-    "react-native-qrcode-svg": "5.1.2",
+    "react-native-qrcode-svg": "6.3.21",
     "react-native-quick-base64": "^2.0.8",
     "react-native-quick-crypto": "^0.7.13",
     "react-native-randombytes": "^3.5.3",
