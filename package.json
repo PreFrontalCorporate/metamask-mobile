@@ -488,7 +488,7 @@
     "babel-plugin-module-resolver": "^5.0.2",
     "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "babel-plugin-transform-remove-console": "6.9.4",
-    "browserstack-local": "^1.5.1",
+    "browserstack-local": "^1.5.13",
     "chromedriver": "^123.0.1",
     "depcheck": "^1.4.7",
     "deprecated-react-native-prop-types": "^5.0.0",
