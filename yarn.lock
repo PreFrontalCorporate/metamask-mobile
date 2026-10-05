@@ -7631,16 +7631,16 @@
     "@noble/hashes" "~1.7.1"
     "@scure/base" "~1.2.4"
 
-"@segment/analytics-react-native@^2.20.3":
-  version "2.20.3"
-  resolved "https://registry.yarnpkg.com/@segment/analytics-react-native/-/analytics-react-native-2.20.3.tgz#cc656a656257ec45d7b55ff9d321a240458c076c"
-  integrity sha512-Gb0PqZGTJJXsCIw2ZFubAS6ZTEBoff4HRADn6Mm3OdHctaOu2D/l96Iow4Qheqoq2jhV5wyhEQVvIvLPJQqg8A==
+"@segment/analytics-react-native@^2.24.1":
+  version "2.24.1"
+  resolved "https://registry.yarnpkg.com/@segment/analytics-react-native/-/analytics-react-native-2.24.1.tgz#5f7b3a79f6e37f08cf1aa6d43a74a66826a1ed7e"
+  integrity sha512-Ecs958hHCPSfljbeUTplawhnXJKmkRl43/MBgRc7J2xnmf9ncIahqnZmzsqUiknCHZ9JxGL0VpqrsaOXrJm+gA==
   dependencies:
     "@segment/tsub" "2.0.0"
     "@stdlib/number-float64-base-normalize" "0.0.8"
     deepmerge "^4.3.1"
     js-base64 "^3.7.5"
-    uuid "^9.0.1"
+    uuid "^14.0.0"
 
 "@segment/loosely-validate-event@^2.0.0":
   version "2.0.0"
@@ -28365,6 +28365,11 @@ uuid@9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
   integrity sha512-MXcSTerfPa4uqyzStbRoTgt5XIe3x5+42+q1sDuy3R5MDk66URdLMOZe5aPX/SQd+kuYAh0FdP/pO28IkQyTeg==
+
+uuid@^14.0.0:
+  version "14.0.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-14.0.2.tgz#d5ae03e4db0881c87271f8b0b9bd7312d02c799a"
+  integrity sha512-xZe/16rV4aa+HGSOCiY2YeLT1OybRLrrkL/Rqaq7p7GMVXjFh+6wN4oMYgjFmnSnhY8t6Xpdl2l9qmnHYuMHwQ==
 
 uuid@^3.0.1, uuid@^3.3.2:
   version "3.4.0"
